@@ -37,6 +37,6 @@ Contributions are welcome! If you have any suggestions for improving the analysi
 
 **Feedback**:
 
-If you have any feedback, questions, or concerns, please feel free to open an issue in this repository or contact ME at deepakm.envision@gmail.com.
+If you have any feedback, questions, or concerns, please feel free to open an issue in this repository or contact ME at bhartisonawane30gmail.com.
 
-Thank you for using Coffee Shop Sales Analysis Excel! Enjoy analyzing your sales data and discovering insights to improve your business.
+Thank you for using Banking Dataset Analysis Excel! Enjoy analyzing your Banking data and discovering insights to improve your business.
